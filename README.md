@@ -1,2 +1,4 @@
+alireza zarei : 
 # Hello-world
-First repository ! 
+The First repository ! 
+Some changes was neccesary ! 
